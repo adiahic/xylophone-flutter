@@ -35,7 +35,7 @@ class XylophoneApp extends StatelessWidget {
               buildKey(boja: Colors.greenAccent, soundNumber: 3, tekst: 'bilo'),
               buildKey(boja: Colors.yellow, soundNumber: 4, tekst: 'bas'),
               buildKey(boja: Colors.cyan, soundNumber: 5, tekst: 'jednostavno'),
-              buildKey(boja: Colors.lime, soundNumber: 6, tekst: 'ali'),
+              buildKey(boja: Colors.lime, soundNumber: 6, tekst: 'ali...'),
               buildKey(
                   boja: Colors.lightBlueAccent,
                   soundNumber: 7,
